@@ -4,7 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   background-image: url(gradient_bg.jpg);
-  background-size: 1000px;
+  background-size: 1500px;
   flex-direction: column;
 }
 #container {
